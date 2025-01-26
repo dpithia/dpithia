@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Dylan
 
-🎓 Computer Science Student
-💻 Aspiring Full Stack Developer
-🌱 Currently building projects with React 
+🎓 Computer Science Student <br/>
+💻 Aspiring Full Stack Developer <br/>
+🌱 Currently building projects with React <br/>
 🚀 Learning new technologies every day
 
 ### Technologies I'm Working With
