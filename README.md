@@ -2,7 +2,7 @@
 
 🎓 Computer Science Student
 💻 Aspiring Full Stack Developer
-🌱 Currently building projects with React
+🌱 Currently building projects with React 
 🚀 Learning new technologies every day
 
 ### Technologies I'm Working With
