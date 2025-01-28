@@ -11,7 +11,6 @@
 - 💡 Passionate about creating responsive, user-friendly applications
 - 🌱 Currently expanding my skills in full-stack development
 - 👥 Open to collaborating on innovative web projects
-- ⚡ Fun fact: [Add an interesting fact about yourself!]
 
 ## 🛠️ Tech Stack
 
