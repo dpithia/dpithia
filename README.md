@@ -1,4 +1,4 @@
-# Dylan | Full Stack Developer in Training 👨‍💻
+# Dylan | Full Stack Developer in Training 👨‍💻 ![](https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc5MzMyOTMsIm5iZiI6MTczNzkzMjk5MywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTI2VDIzMDk1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFlNGI4NTBmZmFjYjgyOTFlYmE2NDMxNDhkNDg4YjEyNDBlZDU0ZmNkNmMwYzYzMjkxY2MyMzEzMDVmNWVkYzAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.KU_1yKXJGl5i_05NBlFojQPpkaFWmNfNRbbun7-mSYc)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-pithia-b62437313)
 [![GitHub followers](https://img.shields.io/github/followers/dpithia?label=Follow&style=social)](https://github.com/dpithia)
