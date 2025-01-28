@@ -41,9 +41,7 @@
 - Exploring modern frontend frameworks and libraries
 - Implementing responsive design principles
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dpithia&show_icons=true&theme=dracula)
+## 📊 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dpithia&layout=compact&theme=dracula)
 
