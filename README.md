@@ -35,11 +35,10 @@
 
 ## 🎯 Current Focus
 
-- Building a portfolio of React-based web applications
-- Developing RESTful APIs with Node.js and Express
-- Learning database design and implementation
-- Exploring modern frontend frameworks and libraries
-- Implementing responsive design principles
+- Building modern web applications with React
+- Developing my full stack development skills
+- Creating responsive and interactive user interfaces
+- Learning backend technologies
 
 ## 📊 Top Languages
 
