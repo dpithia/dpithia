@@ -43,22 +43,6 @@
 - Creating responsive and interactive user interfaces
 - Learning backend technologies
 
-## 📈 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dpithia&show_icons=true&theme=dracula&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dpithia&layout=compact&theme=dracula&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dpithia&theme=dracula&hide_border=true)
-
-</div>
-
-## 🌟 Featured Projects
-
-*Coming soon - showcasing my best work from development journey*
-
 ## 📫 Let's Connect!
 
 - 🌐 **Portfolio:** [dylanpithia.com](https://dylanpithia.com)
