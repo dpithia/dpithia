@@ -59,57 +59,15 @@
 
 *Coming soon - showcasing my best work from development journey*
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dpithia&theme=dracula&no-frame=true&margin-w=15)
-
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dpithia&theme=dracula&hide_border=true)
-
-</div>
-
-## 💡 Fun Facts About Me
-
-- 🎮 When I'm not coding, you can find me exploring new games or tech gadgets
-- 📚 Always learning something new - currently diving deeper into modern web frameworks
-- ☕ Powered by coffee and curiosity
-- 🌟 Believe that great code is like poetry - clean, elegant, and purposeful
-
 ## 📫 Let's Connect!
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-dylanpithia.com-FF5722?style=for-the-badge)](https://dylanpithia.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dylan_Pithia-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dylan-pithia-b62437313)
-[![Email](https://img.shields.io/badge/📧_Email-Available_on_Portfolio-D14836?style=for-the-badge)](https://dylanpithia.com)
-
-</div>
-
-**Always open to discussing:** Web development, new technologies, collaboration opportunities, and innovative project ideas!
-
-## 🎯 2025 Goals
-
-- 🚀 Launch 3 major web applications
-- 📖 Master a new backend framework
-- 🤝 Contribute to open-source projects
-- 🎓 Complete advanced full-stack certifications
-- 🌐 Expand portfolio with diverse project types
+- 🌐 **Portfolio:** [dylanpithia.com](https://dylanpithia.com)
+- 💼 **LinkedIn:** [Dylan Pithia](https://www.linkedin.com/in/dylan-pithia-b62437313)
+- 📧 **Email:** Available on my portfolio
+- 💬 **Always open to discussing:** Web development, new technologies, and collaboration opportunities
 
 ---
 
 <div align="center">
-  
-**"Code is like humor. When you have to explain it, it's bad." - Cory House**
-
-<img src="https://komarev.com/ghpvc/?username=dpithia&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-
-*Thanks for visiting my profile! ⭐ Star some repositories if you find them interesting!*
-
+  <img src="https://komarev.com/ghpvc/?username=dpithia&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
